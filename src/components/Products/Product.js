@@ -70,8 +70,8 @@ const products = [
       <div className="product">
       <span role="img" aria-label={product.id}>{product.emoji}</span>
       </div>
-      <button onClick={() => add(product)} >Adiciona</button>
-      <button onClick={() => remove(product)} >Remove</button>
+      <button onClick={() => add(product)} >Adicionar</button>
+      <button onClick={() => remove(product)} >Remover</button>
       </div>
       ))}
       </div>
