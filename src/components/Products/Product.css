@@ -1,0 +1,16 @@
+.product span {
+    font-size: 100px;
+    
+}
+
+.wrapper {
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.wrapper button {
+    font-size: 15px;
+    margin: 0.1rem;
+    border-radius: 2rem;
+}
